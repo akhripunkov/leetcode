@@ -1,0 +1,4 @@
+
+ocsharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡¸É™
+Ucsharpsquid:S1854."8Remove this useless assignment to local variable 'temp'.(äªœ«
+{csharpsquid:S2368"^Make this method private or simplify its parameters to not use multidimensional/jagged arrays.(¡¸É™

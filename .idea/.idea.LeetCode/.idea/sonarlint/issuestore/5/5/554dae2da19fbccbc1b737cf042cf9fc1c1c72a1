@@ -1,0 +1,6 @@
+
+tcsharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼Ÿ“Àüÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ô¸úÏ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÿ»¡
+ƒcsharpsquid:S2583"fChange this condition so that it does not always evaluate to 'False'. Some code paths are unreachable.(ï±Æ±
+Hcsharpsquid:S1481"+Remove the unused local variable 'savedL3'.(½•Ö•

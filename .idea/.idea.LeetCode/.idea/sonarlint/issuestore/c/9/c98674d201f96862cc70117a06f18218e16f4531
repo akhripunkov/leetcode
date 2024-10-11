@@ -1,0 +1,5 @@
+
+~csharpsquid:S3776"ZRefactor this top-level file to reduce its Cognitive Complexity from 60 to the 15 allowed.(¸ÜÿÎ8ğÒ¼¥2
+Dcsharpsquid:S3626:"Remove this redundant jump.(œœâ¥ûÿÿÿÿ8®¥Õ¼¥2
+csharpsquid:S2583("fChange this condition so that it does not always evaluate to 'False'. Some code paths are unreachable.(½“€Çşÿÿÿÿ8€‹ë¼¥2
+csharpsquid:S25835"fChange this condition so that it does not always evaluate to 'False'. Some code paths are unreachable.(ß¬³êûÿÿÿÿ8€‹ë¼¥2
