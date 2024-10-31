@@ -72,6 +72,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3Sum", "_3Sum\_3Sum.csproj", "{F916F6E1-41DF-414E-8675-16C07845BBE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSizeSubarraySum", "MinimumSizeSubarraySum\MinimumSizeSubarraySum.csproj", "{97FAA6EE-8D9F-4892-967F-55A81F8355A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringwithConcatenationofAllWords", "SubstringwithConcatenationofAllWords\SubstringwithConcatenationofAllWords.csproj", "{D6AF73DB-7E19-4400-B4DE-19A8D859704A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +226,13 @@ Global
 		{F916F6E1-41DF-414E-8675-16C07845BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F916F6E1-41DF-414E-8675-16C07845BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F916F6E1-41DF-414E-8675-16C07845BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FAA6EE-8D9F-4892-967F-55A81F8355A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FAA6EE-8D9F-4892-967F-55A81F8355A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FAA6EE-8D9F-4892-967F-55A81F8355A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FAA6EE-8D9F-4892-967F-55A81F8355A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AF73DB-7E19-4400-B4DE-19A8D859704A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AF73DB-7E19-4400-B4DE-19A8D859704A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AF73DB-7E19-4400-B4DE-19A8D859704A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AF73DB-7E19-4400-B4DE-19A8D859704A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
